@@ -8,12 +8,12 @@ PIC = config.ALIVE_PIC
 if config.ALIVE_PIC:
     DEADLY_PIC = PIC
 else:
-    DEADLY_PIC = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
+    DEADLY_PIC = "https://graph.org/file/bf5ebe363845094c47512.jpg"
 
 hl = config.CMD_HNDLR
 
 
-DEADLY = "✯ 𝗞𝗜𝗡𝗚 𝗫 𝗧𝗘𝗔𝗠 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 ✯\n\n"
+DEADLY = "✯ Ak 𝗧𝗘𝗔𝗠 ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `4.0.0`\n"
 DEADLY += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
