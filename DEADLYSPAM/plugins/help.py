@@ -27,7 +27,7 @@ DEAD_HELP += f" `!raid` - to raid\n `!replyraid` - to active reply raid\n `!drep
 
 DEAD_HELP += f" !pornspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂 ↧\n\n"
 
-DEAD_HELP += f"© @BRANDED_WORLD\n"
+DEAD_HELP += f"© @Alllllllllllllllllllllll\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern='/help'))
