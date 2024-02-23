@@ -18,7 +18,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [❤️ 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 ✘ 𝗞𝗜𝗡𝗚
 
 ###    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/KINGSPAM"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Akash8t2/AK-SPAM"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
