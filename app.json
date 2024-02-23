@@ -2,7 +2,7 @@
 {
     "name": "Ak-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+    "logo": "https://graph.org/file/bf5ebe363845094c47512.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -11,8 +11,8 @@
         "SpamBots"
     ],
     "repository": "https://github.com/Akash8t2/AK-SPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "website": "https://t.me/AK_BOTS_TAME",
+    "success_url": "https://t.me/AK_BOTS_TAME",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -21,7 +21,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+        "value": "https://graph.org/file/bf5ebe363845094c47512.jpg",
         "required": false
       },
       "API_HASH": {
