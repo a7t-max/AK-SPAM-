@@ -24,7 +24,7 @@ DEADLY += f"═══════════════════\n\n"
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hl))
 async def alive(event): 
   if event.sender_id in SUDOERS:
-     Blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/BRANDED_KHUSHI"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/BRANDED_WORLD")], [Button.url("• ʀᴇᴘᴏ •", "https://github.com/WCGKING/KINGSPAM")]]
+     Blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/AK_BOTS_TAME"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/AK_BOTS_TAME")], [Button.url("• ʀᴇᴘᴏ •", "https://github.com/Akash8t2/AK-SPAM")]]
      await BOT0.send_file(event.chat_id, DEADLY_PIC, caption=DEADLY, buttons=Blaze) 
   else:
       await event.reply("**ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴋɪɴɢ x ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ-ꜱᴘᴀᴍʙᴏᴛ!**") 
