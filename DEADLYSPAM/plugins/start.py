@@ -53,7 +53,7 @@ async def start(e):
         creator = f"[『Akash』|](tg://user?id={6065568342})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
-ᴛʜɪs ɪs ᴋɪɴɢ x ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
+ᴛʜɪs ɪs ᴋɪɴɢ x ᴛᴇᴀᴍ ᴀᴋ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
 
 ᴛʜɪs ʙᴏᴛ ᴏᴡɴᴇʀ:- {myOwner}
 
