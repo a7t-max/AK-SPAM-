@@ -7,7 +7,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [❤️ AK ✘ 𝗞𝗜𝗡𝗚 ❤️](https://t.me/AK_B
 
 ###    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Akash8t2/AK-SPAM"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Akash8t2/AK-SPAM-"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height
                                                                                                      
                                                                                                      
 ## What Is DeadlySpamBot
